@@ -1,7 +1,7 @@
 # strus2wu1
 # Struts 2 吳永志 20210110 
 ## Framwork初探
-##Struts 2 Framework: 2-型態轉換、輸入驗證、業務資料傳遞
+## Struts 2 Framework: 2-型態轉換、輸入驗證、業務資料傳遞
 
 https://hackmd.io/@Z8SXmKIDQJW5D6zTi_T89w/B1KV8og-O
 
